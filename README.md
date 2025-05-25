@@ -12,11 +12,12 @@ I’m passionate about data science, automation, and storytelling, and I thrive 
 
 # 🎯 Objectives of This Repository
 
-- Enhance and sharpen my data science, engineering, and visualization skills
-- Log POC projects and analytical experiments
-- Build reproducible and scalable solutions for reference
-- Share clean, well-documented code for peer learning and collaboration
-- Practice new tools, frameworks, and techniques through hands-on examples
+- Enhance and sharpen my data science, data engineering, and data visualization skills
+- Log Proof of Concept (POC) projects and analytical experiments inspired by real-world challenges
+- Build reproducible and scalable solutions for future reference and reusability
+- Share clean, well-documented code to support peer learning and open-source collaboration
+- Practice and explore new tools, frameworks, and techniques through hands-on examples
+- Include curated solutions to HackerRank and LeetCode problems to strengthen problem-solving and algorithmic thinking
 
 
 # 🧠 Areas of Focus
